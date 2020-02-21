@@ -1,0 +1,13 @@
+C:\Users\gclmehjam\source\repos\GVInsight\GVInsightDataAccess\bin\Test\netcoreapp3.0\GVInsightDataAccess.deps.json
+C:\Users\gclmehjam\source\repos\GVInsight\GVInsightDataAccess\bin\Test\netcoreapp3.0\GVInsightDataAccess.runtimeconfig.json
+C:\Users\gclmehjam\source\repos\GVInsight\GVInsightDataAccess\bin\Test\netcoreapp3.0\GVInsightDataAccess.runtimeconfig.dev.json
+C:\Users\gclmehjam\source\repos\GVInsight\GVInsightDataAccess\bin\Test\netcoreapp3.0\GVInsightDataAccess.dll
+C:\Users\gclmehjam\source\repos\GVInsight\GVInsightDataAccess\bin\Test\netcoreapp3.0\GVInsightDataAccess.pdb
+C:\Users\gclmehjam\source\repos\GVInsight\GVInsightDataAccess\bin\Test\netcoreapp3.0\core.dll
+C:\Users\gclmehjam\source\repos\GVInsight\GVInsightDataAccess\bin\Test\netcoreapp3.0\core.pdb
+C:\Users\gclmehjam\source\repos\GVInsight\GVInsightDataAccess\obj\Test\netcoreapp3.0\GVInsightDataAccess.csprojAssemblyReference.cache
+C:\Users\gclmehjam\source\repos\GVInsight\GVInsightDataAccess\obj\Test\netcoreapp3.0\GVInsightDataAccess.AssemblyInfoInputs.cache
+C:\Users\gclmehjam\source\repos\GVInsight\GVInsightDataAccess\obj\Test\netcoreapp3.0\GVInsightDataAccess.AssemblyInfo.cs
+C:\Users\gclmehjam\source\repos\GVInsight\GVInsightDataAccess\obj\Test\netcoreapp3.0\GVInsightDataAccess.csproj.CopyComplete
+C:\Users\gclmehjam\source\repos\GVInsight\GVInsightDataAccess\obj\Test\netcoreapp3.0\GVInsightDataAccess.dll
+C:\Users\gclmehjam\source\repos\GVInsight\GVInsightDataAccess\obj\Test\netcoreapp3.0\GVInsightDataAccess.pdb

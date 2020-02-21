@@ -1,0 +1,11 @@
+C:\Users\gclmehjam\source\repos\GVInsight\Services\bin\Release\netcoreapp3.0\Services.deps.json
+C:\Users\gclmehjam\source\repos\GVInsight\Services\bin\Release\netcoreapp3.0\Services.dll
+C:\Users\gclmehjam\source\repos\GVInsight\Services\bin\Release\netcoreapp3.0\Services.pdb
+C:\Users\gclmehjam\source\repos\GVInsight\Services\bin\Release\netcoreapp3.0\core.dll
+C:\Users\gclmehjam\source\repos\GVInsight\Services\bin\Release\netcoreapp3.0\core.pdb
+C:\Users\gclmehjam\source\repos\GVInsight\Services\obj\Release\netcoreapp3.0\Services.csprojAssemblyReference.cache
+C:\Users\gclmehjam\source\repos\GVInsight\Services\obj\Release\netcoreapp3.0\Services.AssemblyInfoInputs.cache
+C:\Users\gclmehjam\source\repos\GVInsight\Services\obj\Release\netcoreapp3.0\Services.AssemblyInfo.cs
+C:\Users\gclmehjam\source\repos\GVInsight\Services\obj\Release\netcoreapp3.0\Services.csproj.CopyComplete
+C:\Users\gclmehjam\source\repos\GVInsight\Services\obj\Release\netcoreapp3.0\Services.dll
+C:\Users\gclmehjam\source\repos\GVInsight\Services\obj\Release\netcoreapp3.0\Services.pdb

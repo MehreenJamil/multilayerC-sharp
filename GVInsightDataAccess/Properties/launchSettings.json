@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "GVInsightDataAccess": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "nativeDebugging": true
+    }
+  }
+}
